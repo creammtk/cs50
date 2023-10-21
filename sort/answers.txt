@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: in worst case still slowest runtime.
+
+sort2 uses: merge sort
+
+How do you know?: every program has a fastest runtime.
+
+sort3 uses: selection sort
+
+How do you know?: in worst case still faster than sort 1.
